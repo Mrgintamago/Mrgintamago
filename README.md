@@ -139,9 +139,9 @@ Not Yet 😔
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrgintamago&repo=vulnerability-scanner&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Mrgintamago/DACNPM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrgintamago&repo=DACNPM&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Mrgintamago/DACNPM)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrgintamago&repo=penetration-testing-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/tiphutuoi21/TTNT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiphutuoi21&repo=TTNT&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/tiphutuoi21/TTNT)
 
 </div>
 
