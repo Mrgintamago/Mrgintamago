@@ -194,7 +194,7 @@ Not Yet 😔
   
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mrgintamago.Mrgintamago)
   
-  ![Code Geass Footer](https://media.giphy.com/media/yJ1KSiTxaAw5G/giphy.gif)
+  ![Genshin Impact Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW8zdGs3bTZobm1xMDhvbTR3MWVmeG4zdTlidTNnYzRlNWIzY3NleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/32o1C0pz7HHC32ShtI/giphy.gif)
   
   ### ⭐ Thanks for visiting! Don't forget to star my repos if you like them! ⭐
   
