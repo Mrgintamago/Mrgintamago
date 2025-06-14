@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Anime Header](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+  ![Attack on Titan Header](https://media.giphy.com/media/3oKIPjzfv0sI2p7fDW/giphy.gif)
   
   ## ⚡ Hi there! I'm Mrgintamago ⚡
   
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎌 About Me | 私について
+## 🎌 About Me
 
 ```javascript
 const mrgintamago = {
@@ -20,37 +20,37 @@ const mrgintamago = {
     location: "Vietnam 🇻🇳",
     currentlyLearning: ["React", "Node.js", "Python"],
     hobbies: ["Anime", "Gaming", "Coding", "Reading Manga"],
-    favoriteAnime: ["Attack on Titan", "One Piece", "Demon Slayer"],
+    favoriteAnime: ["Attack on Titan", "Monogatari", "Code Geass"],
     motto: "Code like a ninja, debug like a detective! 🥷"
 };
 ```
 
 <div align="center">
   
-  ![Anime Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+  ![Code Geass Coding GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
   
 </div>
 
 ---
 
-## 🛠️ Tech Stack | 技術スタック
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages | 言語
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries | フレームワーク
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### Tools & Platforms | ツール
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -60,7 +60,7 @@ const mrgintamago = {
 
 ---
 
-## 📊 GitHub Stats | GitHub統計
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -74,22 +74,23 @@ const mrgintamago = {
 
 ---
 
-## 🎮 Currently Playing | 現在プレイ中
+## 🎮 Currently Playing
 
 <div align="center">
   
-  ![Anime Game GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+  ![Monogatari GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
   
 </div>
 
 - 🎯 Learning React.js & Next.js
 - 🔥 Building awesome web applications
 - 📚 Reading "Clean Code" by Robert Martin
-- 🎌 Watching: Jujutsu Kaisen Season 2
+- 🎌 Rewatching: Attack on Titan Final Season
+- 🌸 Currently reading: Monogatari series light novels
 
 ---
 
-## 🌟 Featured Projects | 注目のプロジェクト
+## 🌟 Featured Projects
 
 <div align="center">
 
@@ -101,7 +102,7 @@ const mrgintamago = {
 
 ---
 
-## 🤝 Connect with Me | 繋がりましょう
+## 🤝 Connect with Me
 
 <div align="center">
   
@@ -114,21 +115,21 @@ const mrgintamago = {
 
 ---
 
-## 🎨 Anime Quotes | アニメの名言
+## 🎨 Anime Quotes
 
-> *"The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."* - Camus
+> *"If you win, you live. If you lose, you die. If you don't fight, you can't win!"* - Eren Yeager (Attack on Titan)
 > 
-> *"A person grows up when he's able to overcome hardships. Protection is important, but there are some things that a person must learn on his own."* - Jiraiya
+> *"The fake is of far greater value. In its deliberate attempt to be real, it's more real than the real thing."* - Kaiki Deishuu (Monogatari)
 
 <div align="center">
   
-  ![Anime Quote GIF](https://media.giphy.com/media/ZBQhoZC0nqknSviPqT/giphy.gif)
+  ![Attack on Titan Quote GIF](https://media.giphy.com/media/TCaq4FKyQJJWfIsVpz/giphy.gif)
   
 </div>
 
 ---
 
-## 🏆 GitHub Trophies | GitHub トロフィー
+## 🏆 GitHub Trophies
 
 <div align="center">
   
@@ -138,7 +139,7 @@ const mrgintamago = {
 
 ---
 
-## 📈 Activity Graph | アクティビティグラフ
+## 📈 Activity Graph
 
 <div align="center">
   
@@ -148,19 +149,19 @@ const mrgintamago = {
 
 ---
 
-## 🎌 Fun Facts | 面白い事実
+## 🎌 Fun Facts
 
 - 🍜 I can survive on ramen for days while coding
-- 🎮 I've watched over 300+ anime series
+- 🎮 I've watched Attack on Titan 5+ times and still get emotional
 - 💻 I prefer coding at night (like a true otaku)
 - 🌸 Cherry blossoms are my favorite (hence the username)
-- ⚡ I believe in the power of friendship and good code!
+- ⚡ I believe Code Geass has the best plot twists in anime
+- 🔥 Monogatari series taught me the beauty of dialogue and character development
 
 <div align="center">
+    ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mrgintamago.Mrgintamago)
   
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mrgintamago.Mrgintamago)
-  
-  ![Anime Footer](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+  ![Code Geass Footer](https://media.giphy.com/media/yJ1KSiTxaAw5G/giphy.gif)
   
   ### ⭐ Thanks for visiting! Don't forget to star my repos if you like them! ⭐
   
