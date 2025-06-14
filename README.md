@@ -159,22 +159,6 @@ Not Yet 😔
 
 ---
 
-## 🎨 Anime Quotes
-
-> *"If you win, you live. If you lose, you die. If you don't fight, you can't win!"* - Eren Yeager (Attack on Titan)
-> 
-> *"The fake is of far greater value. In its deliberate attempt to be real, it's more real than the real thing."* - Kaiki Deishuu (Monogatari)
->
-> *"The only ones who should kill are those who are prepared to be killed."* - Lelouch vi Britannia (Code Geass)
-
-<div align="center">
-  
-  ![Attack on Titan Quote GIF](https://media.giphy.com/media/TCaq4FKyQJJWfIsVpz/giphy.gif)
-  
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
