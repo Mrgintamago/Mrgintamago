@@ -27,7 +27,7 @@ const mrgintamago = {
 
 <div align="center">
   
-  ![Code Geass Coding GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+  ![Code Geass Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRoa3o3d3h5YXZyY2p3eHF2anZ1OThuZmd3YWpxMGhvYjQ0OGF3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13pHvqbNfjaZyg/giphy.gif)
   
 </div>
 
