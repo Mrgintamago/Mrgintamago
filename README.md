@@ -121,7 +121,7 @@ Not Yet 😔
 
 <div align="center">
   
-  ![Monogatari GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+  ![Genshin Impact GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs3YzByamR6ZWpma2t1eTVtZW9nZmhkNTBoY2lnbjVmdHk0Nno2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZzyYYSDpcfHTrQIC9/giphy.gif)
   
 </div>
 
@@ -131,6 +131,7 @@ Not Yet 😔
 - 🎌 Rewatching: Attack on Titan Final Season
 - 🌸 Currently reading: Monogatari series light novels
 - 🥷 Building custom security tools and scripts
+- 🎮 Playing some Hoyo's games.
 
 ---
 
