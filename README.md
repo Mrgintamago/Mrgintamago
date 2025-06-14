@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Header](https://media.gifdb.com/monogatari-yotsugi-s-peace-pose-51pkx1rvx3gyopij.gif))
+  ![Header](https://media.gifdb.com/monogatari-yotsugi-s-peace-pose-51pkx1rvx3gyopij.gif)
   
   ## ⚡ Hi there! I'm Mrgintamago ⚡
   
