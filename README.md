@@ -107,8 +107,7 @@ const mrgintamago = {
 <div align="center">
 
 ### 🏆 Current Certifications
-![Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-![CEH](https://img.shields.io/badge/CEH-00599C?style=for-the-badge&logo=eccouncil&logoColor=white)
+Not Yet 😔
 
 ### 🎯 Currently Pursuing
 ![OSCP](https://img.shields.io/badge/OSCP-FF6B35?style=for-the-badge&logo=offensive-security&logoColor=white)
