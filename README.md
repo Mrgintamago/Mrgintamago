@@ -41,7 +41,6 @@ const mrgintamago = {
 - **Operating Systems**: Deep understanding of Windows, Linux, and Unix systems
 - **Network Security**: OSI Model, TCP/IP, IP Protocols, Network Analysis  
 - **Web Application Security**: OWASP Top 10 vulnerabilities assessment and exploitation
-- **Mobile Application Security**: iOS and Android security testing
 - **Vulnerability Assessment**: Systematic identification, analysis, and exploitation of security weaknesses
 
 ### 💻 Programming & Scripting
@@ -71,8 +70,6 @@ const mrgintamago = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Security Tools & Frameworks
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -86,7 +83,6 @@ const mrgintamago = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 </div>
 
