@@ -2,7 +2,7 @@
 
 <div align="center">
   
-    ![Monogatari Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHV1N2psNzhpcDNrdjV6eDN4MXJjZ3d2cmUyemI3cTgyMXFpYzc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNPvfcYg0AxJYjDop6/giphy.gif)
+  ![Monogatari Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHV1N2psNzhpcDNrdjV6eDN4MXJjZ3d2cmUyemI3cTgyMXFpYzc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNPvfcYg0AxJYjDop6/giphy.gif)
   
   ## ⚡ Hi there! I'm Mrgintamago ⚡
   
