@@ -2,11 +2,11 @@
 
 <div align="center">
   
-  ![Header](https://gifdb.com/gif/monogatari-yotsugi-s-peace-pose-51pkx1rvx3gyopij.html?embed=true)
+  ![Attack on Titan Header](https://media.giphy.com/media/3oKIPjzfv0sI2p7fDW/giphy.gif)
   
   ## ⚡ Hi there! I'm Mrgintamago ⚡
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Coding+with+Anime+Power!;Frontend+Developer;Backend+Ninja;Always+Learning!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Hacking+with+Anime+Power!;Cybersecurity+Specialist;Penetration+Tester;Ethical+Hacker;Always+Securing!)](https://git.io/typing-svg)
   
 </div>
 
@@ -18,10 +18,10 @@
 const mrgintamago = {
     pronouns: "he/him",
     location: "Vietnam 🇻🇳",
-    currentlyLearning: ["React", "Node.js", "Python"],
-    hobbies: ["Anime", "Gaming", "Coding", "Reading Manga"],
+    currentlyLearning: ["Penetration Testing", "OSCP", "Web Security"],
+    hobbies: ["Anime", "Gaming", "Ethical Hacking", "Reading Manga"],
     favoriteAnime: ["Attack on Titan", "Monogatari", "Code Geass"],
-    motto: "Code like a ninja, debug like a detective! 🥷"
+    motto: "Hack like a ninja, secure like a samurai! 🥷🛡️"
 };
 ```
 
@@ -33,28 +33,60 @@ const mrgintamago = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛡️ Core Security Competencies
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🔍 Penetration Testing & Security Assessment
+- **Operating Systems**: Deep understanding of Windows, Linux, and Unix systems
+- **Network Security**: OSI Model, TCP/IP, IP Protocols, Network Analysis  
+- **Web Application Security**: OWASP Top 10 vulnerabilities assessment and exploitation
+- **Mobile Application Security**: iOS and Android security testing
+- **Vulnerability Assessment**: Systematic identification, analysis, and exploitation of security weaknesses
+
+### 💻 Programming & Scripting
+- **Languages**: C | C# | Python | PHP | Java
+- **Specialization**: Security-focused development and scripting
+
+### 🔧 Security Tools & Frameworks
+
+| Category | Tools |
+|----------|-------|
+| **Web Security** | Burp Suite, OWASP ZAP, Acunetix |
+| **Network Security** | Nmap, Wireshark, Metasploit |
+| **Vulnerability Scanning** | Nessus, OpenVAS |
+| **Operating Systems** | Kali Linux, Parrot OS |
+| **Frameworks** | Metasploit Framework, Cobalt Strike |
+
+</div>
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+### Security Tools & Frameworks
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Operating Systems & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 </div>
 
@@ -74,7 +106,23 @@ const mrgintamago = {
 
 ---
 
-## 🎮 Currently Playing
+## 🎯 Certifications & Goals
+
+<div align="center">
+
+### 🏆 Current Certifications
+![Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![CEH](https://img.shields.io/badge/CEH-00599C?style=for-the-badge&logo=eccouncil&logoColor=white)
+
+### 🎯 Currently Pursuing
+![OSCP](https://img.shields.io/badge/OSCP-FF6B35?style=for-the-badge&logo=offensive-security&logoColor=white)
+![CISSP](https://img.shields.io/badge/CISSP-009639?style=for-the-badge&logo=isc2&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Currently Hacking
 
 <div align="center">
   
@@ -82,21 +130,22 @@ const mrgintamago = {
   
 </div>
 
-- 🎯 Learning React.js & Next.js
-- 🔥 Building awesome web applications
-- 📚 Reading "Clean Code" by Robert Martin
+- 🛡️ Studying for OSCP certification
+- 🔍 Practicing penetration testing on HackTheBox
+- 📚 Reading "The Web Application Hacker's Handbook"
 - 🎌 Rewatching: Attack on Titan Final Season
 - 🌸 Currently reading: Monogatari series light novels
+- 🥷 Building custom security tools and scripts
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Security Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrgintamago&repo=anime-website&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Mrgintamago/anime-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrgintamago&repo=vulnerability-scanner&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Mrgintamago/vulnerability-scanner)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrgintamago&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Mrgintamago/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrgintamago&repo=penetration-testing-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Mrgintamago/penetration-testing-toolkit)
 
 </div>
 
@@ -120,6 +169,8 @@ const mrgintamago = {
 > *"If you win, you live. If you lose, you die. If you don't fight, you can't win!"* - Eren Yeager (Attack on Titan)
 > 
 > *"The fake is of far greater value. In its deliberate attempt to be real, it's more real than the real thing."* - Kaiki Deishuu (Monogatari)
+>
+> *"The only ones who should kill are those who are prepared to be killed."* - Lelouch vi Britannia (Code Geass)
 
 <div align="center">
   
@@ -151,15 +202,18 @@ const mrgintamago = {
 
 ## 🎌 Fun Facts
 
-- 🍜 I can survive on ramen for days while coding
-- 🎮 I've watched Attack on Titan 5+ times and still get emotional
-- 💻 I prefer coding at night (like a true otaku)
+- 🍜 I can survive on ramen for days while pentesting
+- 🎮 I've watched Attack on Titan 5+ times and still get emotional  
+- 💻 I prefer hacking at night (like a true cyber ninja)
 - 🌸 Cherry blossoms are my favorite (hence the username)
-- ⚡ I believe Code Geass has the best plot twists in anime
+- ⚡ I believe Code Geass has the best strategic thinking in anime
 - 🔥 Monogatari series taught me the beauty of dialogue and character development
+- 🛡️ I find vulnerabilities in my sleep (literally dream about exploits)
+- 🥷 My motto: "Think like an attacker, defend like a samurai"
 
 <div align="center">
-    ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mrgintamago.Mrgintamago)
+  
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mrgintamago.Mrgintamago)
   
   ![Code Geass Footer](https://media.giphy.com/media/yJ1KSiTxaAw5G/giphy.gif)
   
